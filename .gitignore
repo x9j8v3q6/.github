@@ -1,0 +1,20 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# --- Script Temporary Files ---
+*.tmp
+*.bak
+*.log
+
+# --- Local Environment ---
+.env
+.env.local
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
